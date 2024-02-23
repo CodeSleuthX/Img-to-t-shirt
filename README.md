@@ -1,5 +1,5 @@
 
-Install the project dependencies using npm in both client and server folders:
+Install the project dependencies using npm in client folder:
 
 ```bash
 npm install

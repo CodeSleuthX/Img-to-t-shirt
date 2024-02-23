@@ -5,8 +5,6 @@ Install the project dependencies using npm in both client and server folders:
 npm install
 ```
 
-Replace the placeholder values with your actual OpenAI credentials. You can obtain these credentials by signing up on the [Open website](https://openai.com/).
-
 **Running the Project**
 
 cd Client
